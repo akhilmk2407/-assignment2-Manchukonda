@@ -22,3 +22,5 @@ In the Indian Premier League, Hyderabad, Telangana-based Sunrisers Hyderabad is 
 
 * Chennai Super Kings
 * Mumbai Indians
+
+lets go to the AboutMe link. [Click Here](https://github.com/akhilmk2407/assignment2-Manchukonda/blob/main/AboutMe.md)
