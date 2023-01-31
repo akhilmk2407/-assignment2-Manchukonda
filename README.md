@@ -24,3 +24,16 @@ In the Indian Premier League, Hyderabad, Telangana-based Sunrisers Hyderabad is 
 * Mumbai Indians
 
 lets go to the AboutMe. [Click Here](https://github.com/akhilmk2407/assignment2-Manchukonda/blob/main/AboutMe.md)
+
+
+----------
+
+We'll list the various nations, along with our intentions to visit them, in the table below.
+
+| Country    | Reason for Visit       | No of days  |
+|---------   | ----------------       | ----------  |
+| India      | Culture & Food         | 2months     |
+| US         | incredible hospitality | 2months     |
+| UK         | Great Views            | 1month      |
+| Malaysia   | its diversity          | 1month      |
+
