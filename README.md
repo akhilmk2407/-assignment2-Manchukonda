@@ -19,3 +19,6 @@ In the Indian Premier League, Hyderabad, Telangana-based Sunrisers Hyderabad is 
     1. Umran Malik
     2. Washington Sundar
     3. Bhuvneshwar Kumar
+
+* Chennai Super Kings
+* Mumbai Indians
