@@ -12,3 +12,10 @@ In the Indian Premier League, Hyderabad, Telangana-based Sunrisers Hyderabad is 
 **kill two birds with one stone**
 
 -----
+
+# FAVOURITE TEAM
+
+1. Team SRH
+    1. Umran Malik
+    2. Washington Sundar
+    3. Bhuvneshwar Kumar
