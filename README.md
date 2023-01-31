@@ -43,3 +43,29 @@ We'll list the various nations, along with our intentions to visit them, in the 
 >"Gentlemen, you can't fight in here. This is the war room." - ***President Merkin Muffley***
 
 >"My mother always used to say: The older you get, the better you get, unless you’re a banana." - ***Rose***
+
+
+-----------
+
+# Code Fencing
+
+>How to check if a string starts with a specified string? on stackoverflow
+[Click Here](https://stackoverflow.com/questions/2790899/how-to-check-if-a-string-starts-with-a-specified-string)
+
+```
+<?php 
+  
+function startsWith($string, $startString) { 
+  $len = strlen($startString); 
+  return (substr($string, 0, $len) === $startString); 
+} 
+
+// usage
+echo startsWith("cat", "c"); // true
+echo startsWith("dog", "x"); // false
+
+?> 
+
+```
+Snippet source code[Link](https://css-tricks.com/snippets/php/test-if-string-starts-with-certain-characters-in-php/)
+
