@@ -32,8 +32,8 @@ We'll list the various nations, along with our intentions to visit them, in the 
 
 | Country    | Reason for Visit       | No of days  |
 |---------   | ----------------       | ----------  |
-| India      | Culture & Food         | 2months     |
-| US         | incredible hospitality | 2months     |
-| UK         | Great Views            | 1month      |
-| Malaysia   | its diversity          | 1month      |
+| India      | Culture & Food         | 25 days     |
+| US         | incredible hospitality | 20 days    |
+| UK         | Great Views            | 15 days      |
+| Malaysia   | its diversity          | 10 days      |
 
